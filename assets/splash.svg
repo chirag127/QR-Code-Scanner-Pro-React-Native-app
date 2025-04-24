@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1242" height="2436" viewBox="0 0 1242 2436" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1242" height="2436" fill="#3B82F6"/>
+  <rect x="371" y="1068" width="500" height="500" rx="64" stroke="white" stroke-width="48"/>
+  <rect x="496" y="1193" width="250" height="250" rx="32" fill="white"/>
+  <rect x="558.5" y="1255.5" width="125" height="125" rx="16" fill="#3B82F6"/>
+  <text x="621" y="1700" font-family="Arial" font-size="72" font-weight="bold" fill="white" text-anchor="middle">QR Code Scanner Pro</text>
+</svg>
